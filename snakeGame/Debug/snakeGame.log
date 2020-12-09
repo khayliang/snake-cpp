@@ -1,0 +1,5 @@
+﻿  snakeGame.cpp
+c:\users\khayl\docs\personalprojects\cpp_projects\snakegame\snakegame\snakegame.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\khayl\docs\personalprojects\cpp_projects\snakegame\snakegame\snakegame.cpp(76): error C2872: 'greater': ambiguous symbol
+  c:\users\khayl\docs\personalprojects\cpp_projects\snakegame\snakegame\snakegame.cpp(18): note: could be 'bool greater(int,int)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xstddef(120): note: or       'std::greater'
